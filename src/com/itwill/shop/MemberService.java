@@ -9,4 +9,7 @@ public class MemberService {
 	public void selectAll() {
 		
 	}
+	public void selectByPK() {
+		
+	}
 }
