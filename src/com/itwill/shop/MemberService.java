@@ -6,5 +6,7 @@ public class MemberService {
 		memberDao = new MemberDao();
 		
 	}
-
+	public void selectAll() {
+		
+	}
 }
