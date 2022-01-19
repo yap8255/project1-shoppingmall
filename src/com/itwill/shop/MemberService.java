@@ -12,4 +12,7 @@ public class MemberService {
 	public void selectByPK() {
 		
 	}
+	public void update() {
+		
+	}	
 }
